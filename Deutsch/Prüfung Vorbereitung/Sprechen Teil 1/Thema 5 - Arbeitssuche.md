@@ -8,5 +8,8 @@
 - BIZ
 - Initiativbewerbungen
 - In Deutschland oder im Heimatland (evtl. Ländervergleich)
-##### Plan
+54
 ##### Text
+Ich wähle Thema 5.
+
+Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei Jahren lebe ich schon in Deutschlant

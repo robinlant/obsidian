@@ -6,7 +6,7 @@
 - Verkaufszahlen
 - Beliebtheit
 ##### Text
-Ich wähle Thema 7
+Ich wähle Thema 7.
 
 Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei Jahren lebe ich schon in Deutschland und jetzt möchte ich Ihnen einen Kugelschreiber vorstellen.
 
