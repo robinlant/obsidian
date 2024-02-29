@@ -7,7 +7,7 @@
 - Wie Kunden gewinnen?
 - Wie auf diese Idee gekommen?
 ##### Text
-Ich wähle Thema 8
+Ich wähle Thema 7
 
 Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei Jahren lebe ich schon in Deutschland und jetzt möchte ich Ihnen meine Geschäftsidee vorstellen.
 
@@ -27,4 +27,4 @@ Zudem `(Außerdem)` möchte ich mit lokalen Anbietern und Lieferanten zusammenar
 ###### Was ist Crowdfunding
 Crowdfunding ist eine Art, Geld zu sammeln. Dort stellt man sein Projekt vor und bittet viele Menschen um kleine Geldbeiträge. Wenn genug Leute das Projekt gut finden und Geld geben, kann man mit diesem Geld das Projekt starten oder verbessern. Es ist wie eine große Gruppe von Menschen, die zusammenkommen, um eine Idee zu unterstützen.
 ###### Welche Herausforderungen sehen Sie bei der Umsetzung Ihrer Geschäftsidee?
-Bei der Umsetzung meiner Geschäftsidee sehe ich viele Herausforderungen. Erstens könnte es schwierig sein, die richtige Technologie für das Café zu finden oder entwickeln. Zweitens muss ich sicherstellen, dass das Personal gut mit Computern umgehen kann und die App effizient nutzt. Drittens ist es eine Herausforderung, genug Kunden zu gewinnen, damit das Geschäft erfolgreich wird.
+Bei der Umsetzung meiner Geschäftsidee sehe ich viele Herausforderungen. Es könnte schwierig sein, die richtige Technologie für das Café zu finden oder entwickeln. Ich muss sicherstellen, dass das Personal gut mit Computern umgehen kann und die App effizient nutzt. Auch finde ich, dass es eine Herausforderung ist, genug Kunden zu gewinnen, damit das Geschäft erfolgreich wird.
