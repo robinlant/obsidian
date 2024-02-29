@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Neue Wörter aus Forumsbeiträge.md",
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 7 - Produkt.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hausaufgaben/Hausaufgaben von Feb 27.md",
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 8 - Selbständig.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7972afe22f6634fb",
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hausaufgaben/Hausaufgaben von Feb 27.md",
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 7 - Produkt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hausaufgaben/Hausaufgaben von Feb 27.md",
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 7 - Produkt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hausaufgaben/Hausaufgaben von Feb 27.md"
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 7 - Produkt.md"
               }
             }
           }
@@ -159,41 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7ae298d7137d139b",
+  "active": "c4a2602eaf48fed9",
   "lastOpenFiles": [
-    "Hausaufgaben/Hausaufgaben von Jan 30.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 8 - Selbständig.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 7 - Produkt.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Sprechen Teil 1.md",
     "Hausaufgaben/Hausaufgaben von Feb 27.md",
+    "Pasted image 20240228231402.png",
+    "Hausaufgaben/Hausaufgaben von Jan 30.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 6 - Bewerbungsgespräch.md",
+    "Untitled.md",
+    "Neue Wörter aus Forumsbeiträge.md",
+    "Prog/Untitled.md",
+    "Prüfung Vorbereitung",
     "Hausaufgaben",
     "Mündliche Prüfung.md",
     "Hausaufgaben",
-    "Neue Wörter aus Forumsbeiträge.md",
-    "Stellare Sätze.md",
+    "Prüfung Vorbereitung/Stellare Sätze.md",
     "Prog/Pasted image 20240227192731.png",
-    "Prog/Untitled.md",
     "Prog",
     "Prog/Pasted image 20240227192000.png",
     "Prog/Pasted image 20240227191948.png",
     "Prog/Pasted image 20240227185301.png",
     "Prog/Pasted image 20240227185229.png",
-    "Sprechen Teil 1/Sprechen Teil 1.md",
-    "Sprechen Teil 1/Thema 8 - Selbständig.md",
-    "Sprechen Teil 1/Thema 1 - Arbeitgeber.md",
-    "Sprechen Teil 1/Thema 2 - Arbeitsumfeld.md",
-    "Sprechen Teil 1/Thema 3 - Berufswahl.md",
-    "Sprechen Teil 1/Thema 4 - Person.md",
-    "Sprechen Teil 1/Thema 5 - Arbeitssuche.md",
-    "Sprechen Teil 1/Thema 6 - Bewerbungsgespräch.md",
-    "Sprechen Teil 1/Thema 7 - Produkt.md",
-    "Emails/Rauchmelder.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 1 - Arbeitgeber.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 2 - Arbeitsumfeld.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 3 - Berufswahl.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 4 - Person.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 5 - Arbeitssuche.md",
+    "Prüfung Vorbereitung/Emails/Rauchmelder.md",
     "Bewerbung",
-    "Sprechen Teil 1",
-    "Emails",
+    "Prüfung Vorbereitung/Sprechen Teil 1",
+    "Prüfung Vorbereitung/Emails",
     "lab-1-theory-questions.md",
-    "Forumsbeiträge/Gesundheitskurse.md",
-    "Forumsbeiträge/Handynutzung während der Arbeit.md",
-    "Forumsbeiträge/Aktie Mittagspause.md",
-    "Forumsbeiträge/Zigarettenpausen.md",
-    "Forumsbeiträge",
+    "Prüfung Vorbereitung/Forumsbeiträge/Gesundheitskurse.md",
+    "Prüfung Vorbereitung/Forumsbeiträge/Handynutzung während der Arbeit.md",
+    "Prüfung Vorbereitung/Forumsbeiträge/Aktie Mittagspause.md",
+    "Prüfung Vorbereitung/Forumsbeiträge/Zigarettenpausen.md",
+    "Prüfung Vorbereitung/Forumsbeiträge",
     "Welcome.md"
   ]
 }
