@@ -7,7 +7,7 @@
 - Wie Kunden gewinnen?
 - Wie auf diese Idee gekommen?
 ##### Text
-Ich wähle Thema .
+Ich wähle Thema 8.
 
 Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei Jahren lebe ich schon in Deutschland und jetzt möchte ich Ihnen meine Geschäftsidee vorstellen.
 

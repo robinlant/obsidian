@@ -10,9 +10,9 @@ Ich wähle Thema 4.
 
 Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei Jahren lebe ich schon in Deutschland und jetzt möchte ich Ihnen über mein berufliches Vorbild erzählen.
 
-Mein berufliches Vorbild ist mein Großvater. Sein Name ist Mykhola, er ist 73 Jahre alt und lebt derzeit in der Ukraine. Er ist für mich ein großes Vorbild, da er in seinem Leben viel erreicht hat und immer noch aktiv arbeitet. Er hat seine Karriere im Bankwesen begonnen und leitet seit ungefähr 30 Jahren erfolgreich seine eigene Bank. Außerdem hat er noch starke Gesundheit, da er jeden Morgen Yoga macht und bei gutem Wetter abends ungefähr acht Kilometer spazieren geht. 
+Mein berufliches Vorbild ist mein Großvater. Sein Name ist Mykhola, er ist 72 Jahre alt und lebt derzeit in der Ukraine. Er ist für mich ein großes Vorbild, da er in seinem Leben viel erreicht hat und immer noch aktiv arbeitet. Er hat seine Karriere im Bankwesen begonnen und leitet seit ungefähr 30 Jahren erfolgreich seine eigene Bank. Außerdem hat er noch starke Gesundheit, da er jeden Morgen Yoga macht und bei gutem Wetter abends ungefähr acht Kilometer spazieren geht. 
 
-Als ich noch in Tschernihiw gewohnt habe, sind wir häufig nach dem Essen zusammen spazieren gegangen. Während dieser Spaziergänge konnten wir verschiedene berufliche und private Themen besprechen. Was ich besonders an meinem Opa schätze, ist, dass er immer bereit ist, mir zuzuhören und mich zu unterstützen. Besonders bewundere ich an ihm, dass, wenn jemand zu Wort kommt, er diesen nie unterbricht und dasselbe Verhalten auch von anderen erwartet. 
+Als ich noch in Tschernihiw gewohnt habe, sind wir häufig nach dem Abendessen zusammen spazieren gegangen. Während dieser Spaziergänge konnten wir verschiedene berufliche und private Themen besprechen. Was ich besonders an meinem Opa schätze, ist, dass er immer bereit ist, mir zuzuhören und mich zu unterstützen. Besonders bewundere ich an ihm, dass, wenn jemand zu Wort kommt, er diesen nie unterbricht und dasselbe Verhalten auch von anderen erwartet.
 
 Nachdem ich meine Schule abgeschlossen habe, haben wir zusammen ausgewählt, an welcher Universität ich mich einschreiben sollte. Obwohl ich beruflich ein IT-Spezialist sein will, möchte ich ebenso hart`(hard)` arbeiten, um in meiner Karriere ähnliche Erfolge wie mein Opa zu erzielen.
 

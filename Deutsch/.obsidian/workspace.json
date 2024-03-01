@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 8 - Selbständig.md",
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 7 - Produkt.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "51a5f0a1848ff8f5",
+            "id": "15d20a1e70243be3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 7 - Produkt.md",
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 8 - Selbständig.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7972afe22f6634fb",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 5 - Arbeitssuche.md",
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 4 - Person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 5 - Arbeitssuche.md",
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 4 - Person.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 5 - Arbeitssuche.md"
+                "file": "Prüfung Vorbereitung/Sprechen Teil 1/Thema 4 - Person.md"
               }
             }
           }
@@ -184,13 +183,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e5059fc3dd4468c8",
+  "active": "8410c7a66c182380",
   "lastOpenFiles": [
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 1 - Arbeitgeber.md",
     "Prüfung Vorbereitung/Sprechen Teil 1/Thema 8 - Selbständig.md",
-    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 5 - Arbeitssuche.md",
-    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 4 - Person.md",
     "Prüfung Vorbereitung/Sprechen Teil 1/Thema 7 - Produkt.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 5 - Arbeitssuche.md",
     "Prüfung Vorbereitung/Sprechen Teil 1/Thema 6 - Bewerbungsgespräch.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 3 - Berufswahl.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 2 - Arbeitsumfeld.md",
+    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 4 - Person.md",
     "Fragen.md",
     "Prüfung Vorbereitung/Forumsbeiträge/Neue Wörter aus Forumsbeiträge.md",
     "Pasted image 20240228231402.png",
@@ -209,9 +211,6 @@
     "Prog/Pasted image 20240227191948.png",
     "Prog/Pasted image 20240227185301.png",
     "Prog/Pasted image 20240227185229.png",
-    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 1 - Arbeitgeber.md",
-    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 2 - Arbeitsumfeld.md",
-    "Prüfung Vorbereitung/Sprechen Teil 1/Thema 3 - Berufswahl.md",
     "Prüfung Vorbereitung/Emails/Rauchmelder.md",
     "Bewerbung",
     "Prüfung Vorbereitung/Sprechen Teil 1",
