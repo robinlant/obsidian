@@ -20,4 +20,4 @@ Das Arbeitsklima halte ich ebenfalls für essenziell. Es sollte freundlich sein 
 Schließlich, obwohl ich noch nie in der IT-Branche gearbeitet habe, bin ich motiviert, in diesem Bereich zu starten und suche ein Unternehmen, das zu meiner Beschreibung passt.
 ##### Fragen
 ###### Was ist die Tätigkeiten des Technikleiters?
-	Der Technikleiter ist der beste Programmierer des Teams, während der Teamleiter mehr mit Management zu tun hat. Seine Tätigkeiten umfassen die Unterstützung bei technischen Angelegenheiten, die Auswahl der Technologien für das Projekt und die Bewertung der Leistung der Teammitglieder. Üblicherweise übernimmt der Teamleiter in einem kleinen Team die Aufgaben des Technikleiters.
+Der Technikleiter ist der beste Programmierer des Teams, während der Teamleiter mehr mit Management zu tun hat. Seine Tätigkeiten sind die Unterstützung bei technischen Angelegenheiten, die Auswahl der Technologien für das Projekt und die Bewertung der Leistung der Teammitglieder. Üblicherweise übernimmt der Teamleiter in einem kleinen Team die Aufgaben des Technikleiters.
