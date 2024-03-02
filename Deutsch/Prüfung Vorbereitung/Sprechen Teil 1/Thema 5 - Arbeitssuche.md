@@ -15,7 +15,7 @@ Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei 
 
 In Deutschland gibt es zahlreiche Möglichkeiten, eine Arbeit zu finden. Eine traditionelle Methode ist, nach Stellenanzeigen in Zeitungen  zu suchen. Es klappt, aber ich finde es nicht sehr effektiv, weil der Trend zur Digitalisierung heute immer stärker wird.
 
-Andererseits wird es immer leichter, eine Stelle online zu finden. Dort kann man viele Wege nehmen. Zum Beispiel stellen die Firmen häufig eine Liste der offenen Stellen auf ihrem Webauftritt bereit. Internetportale bieten auch umfangreiche Jobbörsen an, auf denen man gezielt nach besondere Stellen suchen kann. 
+Andererseits wird es immer leichter, eine Stelle online zu finden. Dort kann man viele Wege nehmen. Zum Beispiel stellen die Firmen häufig eine Liste der offenen Stellen auf ihrem Webauftritt bereit. Internetportale bieten ebenso umfangreiche Jobbörsen an, auf denen man gezielt nach besondere Stellen suchen kann. 
 
 Das populärste Internetportal ist das Internetportal der Agentur für Arbeit. Auf diesem Portal findet man nicht nur Stellen, sondern auch umfassende Informationen zu Ausbildungen, Praktika und Weiterbildungen. Zudem gibt es dort ein Forum, in dem Leute ihre Erkenntnisse und Tipps teilen. Es kann einem helfen, häufige Anfangsfehler zu vermeiden und sich an bewährte Methoden zu halten`(stick to best practices)`.
 
