@@ -6,5 +6,5 @@
 - Die eigenen Qualifikationen benennen
 - Kleidung
 - Verhalten
-##### Plan
 ##### Text
+Ich wähle Thema
