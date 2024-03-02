@@ -9,6 +9,8 @@
 	- Wie war der Chef?
 - Mein Berufswunsch (Wo möchte ich gern arbeiten?)
 ##### Text
+Ich wähle Thema 1.
+
 Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei Jahren lebe ich schon in Deutschland und jetzt möchte ich Ihnen über einen Arbeitgeber meines Traums erzählen.
 
 Zurzeit studiere ich online Softwareentwicklung an der KPI in Kiew und warte darauf, in Deutschland eine Ausbildung zu machen. Folglich ist die Branche, in der ich arbeiten möchte, die IT-Branche. Der Standort der Firma ist für mich wichtig, da ich noch keinen Führerschein habe. Es wäre am besten, wenn ich das Unternehmen zu Fuß erreichen könnte.
