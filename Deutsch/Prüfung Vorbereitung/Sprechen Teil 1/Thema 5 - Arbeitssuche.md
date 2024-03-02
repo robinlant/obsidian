@@ -13,7 +13,7 @@ Ich wähle Thema 5.
 
 Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei Jahren lebe ich schon in Deutschland und jetzt möchte ich Ihnen über eine Arbeitssuche hier erzählen.
 
-In Deutschland gibt es zahlreiche Möglichkeiten, eine Arbeit zu finden. Eine traditionelle Methode ist, nach Stellenanzeigen in Zeitungen  zu suchen, die häufig lokale Arbeitsmöglichkeiten bieten. Es klappt, aber ich finde es nicht sehr effektiv, weil der Trend zur Digitalisierung heute immer stärker wird.
+In Deutschland gibt es zahlreiche Möglichkeiten, eine Arbeit zu finden. Eine traditionelle Methode ist, nach Stellenanzeigen in Zeitungen  zu suchen. Es klappt, aber ich finde es nicht sehr effektiv, weil der Trend zur Digitalisierung heute immer stärker wird.
 
 Andererseits wird es immer leichter, eine Stelle online zu finden. Dort kann man viele Wege nehmen. Zum Beispiel stellen die Firmen häufig eine Liste der offenen Stellen auf ihrem Webauftritt bereit. Internetportale bieten auch umfangreiche Jobbörsen an, auf denen man gezielt nach besondere Stellen suchen kann. 
 

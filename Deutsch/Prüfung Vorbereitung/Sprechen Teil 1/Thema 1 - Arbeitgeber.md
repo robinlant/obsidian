@@ -23,3 +23,5 @@ Schließlich, obwohl ich noch nie in der IT-Branche gearbeitet habe, bin ich mot
 ##### Fragen
 ###### Was ist die Tätigkeiten des Technikleiters?
 Der Technikleiter ist der beste Programmierer des Teams, während der Teamleiter mehr mit Management zu tun hat. Seine Tätigkeiten sind die Unterstützung bei technischen Angelegenheiten, die Auswahl der Technologien für das Projekt und die Bewertung der Leistung der Teammitglieder. Üblicherweise übernimmt der Teamleiter in einem kleinen Team die Aufgaben des Technikleiters.
+###### Was ist ein Workshop?
+Ein Workshop ist eine Sitzung oder ein Seminar, bei dem man direkt mit den Kunden zusammenarbeitet. Ziele solcher Workshops sind Lösungen für spezifische Probleme zu entwickeln, Feedback zu Produkten oder Dienstleistungen zu sammeln oder die Kunden in die Nutzung bestimmter Technologien einzuführen`(to adopt)`. Zum Beispiel hat mein bekannter Programmierer erzählt, dass seine Aufgabe in einen Workshops oft  sind, Diagramme der Geschäftsprozesse der Kunden zu erstellen.
