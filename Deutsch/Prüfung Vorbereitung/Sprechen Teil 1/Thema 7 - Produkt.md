@@ -21,4 +21,4 @@ Die Minuspunkte sind vielfältig`(diverse)`: Ein Kugelschreiber kann auslaufen. 
 Beliebtheit: Zurzeit wählen die Menschen zwischen zwei Schreibgeräten: Kugelschreiber oder Bleistift, und der Kugelschreiber ist populärer. Auch ist der Kuli ein Standard für Büros, aber für persönlichen Gebrauch wählt man, was einem ein besseres Gefühl beim Schreiben gibt. Zum Beispiel benutze ich weder einen Kugelschreiber noch einen Bleistift, da ich mit der Tastatur schreiben mag.
 ##### Fragen
 ###### Was wissen Sie über die Verkaufszahlen des Kulis?
-Die Verkaufszahlen für Kugelschreiber zeigen ein interessantes Muster`(Pattern)`. In den letzten Jahren haben sich die Zahlen stabilisiert, was belegt, dass Kugelschreiber trotz des Trends zu digitalen Geräten ihren Wert auf dem Markt beibehalten`(to maintain)`.
+Die Verkaufszahlen des Kugelschreibers zeigen ein interessantes Muster`(Pattern)`. In den letzten Jahren haben sich die Zahlen stabilisiert, was belegt, dass Kugelschreiber trotz des Trends zu digitalen Geräten ihren Wert auf dem Markt beibehalten kann`(to maintain)`.

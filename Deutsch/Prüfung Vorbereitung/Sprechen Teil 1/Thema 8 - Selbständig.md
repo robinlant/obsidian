@@ -1,5 +1,5 @@
 [[Sprechen Teil 1]]
-`Sie möchten sich selbständig machen. Beschreiben Sie Ihre Geschäftsidee (z.B. welches Produkt / Welche Dienstleistung, Besconderheiten, Zielgruppe)`
+`Sie möchten sich selbständig machen. Beschreiben Sie Ihre Geschäftsidee (z.B. welches Produkt / Welche Dienstleistung, Besonderheiten, Zielgruppe)`
 ##### Hilfen in Stichpunkten
 - Sich selbständig machen womit?
 - Eigene Firma?
