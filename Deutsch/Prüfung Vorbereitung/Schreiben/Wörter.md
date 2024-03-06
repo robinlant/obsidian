@@ -1,3 +1,4 @@
+### Wörter
 die Regel (-n)  - правила
 aufstellen - устанавливать
 Kostenbeteiligung an (Dat) - распределение расходов
