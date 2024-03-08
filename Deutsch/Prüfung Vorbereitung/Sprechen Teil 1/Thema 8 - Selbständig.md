@@ -25,6 +25,6 @@ __`(nur wenn es noch Zeit gibt)`__
 Zudem `(Außerdem)` möchte ich mit lokalen Anbietern und Lieferanten zusammenarbeiten, um Qualität und Nachhaltigkeit zu verbessern. Dadurch können wir besondere Angebote machen, die mehr Kunden bringen.
 ##### Fragen
 ###### Was ist Crowdfunding
-Crowdfunding ist eine Art, Geld zu sammeln. Dort stellt man sein Projekt vor und bittet viele Menschen um kleine Geldbeiträge. Wenn genug Leute das Projekt gut finden und Geld geben, kann man mit diesem Geld das Projekt starten oder verbessern. Es ist wie eine große Gruppe von Menschen, die zusammenkommen, um eine Idee zu unterstützen.
+Crowdfunding ist eine Art, Geld zu sammeln. Dort stellt man sein Projekt vor und bittet viele Menschen um kleine Geldbeträge. Wenn genug Leute das Projekt gut finden und Geld geben, kann man mit diesem Geld das Projekt starten oder verbessern. Es ist wie eine große Gruppe von Menschen, die zusammenkommen, um eine Idee zu unterstützen.
 ###### Welche Herausforderungen sehen Sie bei der Umsetzung Ihrer Geschäftsidee?
 Bei der Umsetzung meiner Geschäftsidee sehe ich viele Herausforderungen. Es könnte schwierig sein, die richtige Technologie für das Café zu finden oder entwickeln. Ich muss sicherstellen, dass das Personal gut mit Computern umgehen kann und die App effizient nutzt. Ebenso finde ich, dass es eine Herausforderung ist, genug Kunden zu gewinnen, damit das Geschäft erfolgreich wird.

@@ -19,4 +19,4 @@ Nachdem ich meine Schule abgeschlossen habe, haben wir zusammen ausgewählt, an 
 Schließlich möchte ich sagen, dass er mich stark beeinflusst hat und ich hoffe, dass er das auch in Zukunft macht.
 ##### Fragen
 ###### Welche persönlichen Eigenschaften hat er?
-Mein Opa hat viele bewundernswerte`(admirable)` persönliche Eigenschaften. Er ist besonders für seine Geduld und Weisheit bekannt. Zudem ist er immer pünktlich. Wenn wir uns entschieden haben, um 8 Uhr spazieren zu gehen, wird er schon 5 Minuten vor 8 unter meinem Haus stehen. Ich denke, dass diese Eigenschaft in Deutschland besonders geschätzt wird.
+Mein Opa hat viele bewundernswerte`(admirable)` persönliche Eigenschaften. Er ist besonders für seine Geduld und Weisheit bekannt. Zudem ist er immer pünktlich. Wenn wir uns entschieden haben, um 8 Uhr spazieren zu gehen, wird er schon 5 Minuten vor 8 an meinem Haus stehen. Ich denke, dass diese Eigenschaft in Deutschland besonders geschätzt wird.
