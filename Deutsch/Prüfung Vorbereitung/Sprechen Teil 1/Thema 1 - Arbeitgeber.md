@@ -13,7 +13,7 @@ Ich wähle Thema 1.
 
 Hallo, mein Name ist Maksym Tarasovets und ich komme aus der Ukraine. Seit zwei Jahren lebe ich schon in Deutschland und jetzt möchte ich Ihnen über einen Arbeitgeber meines Traums erzählen.
 
-Zurzeit studiere ich online Softwareentwicklung an der KPI in Kiew und warte darauf, in Deutschland eine Ausbildung zum Fachinformatiker zu machen. Folglich geht es um ein Unternehmen dieser Branche. Der Standort der Firma ist für mich wichtig, da ich noch keinen Führerschein habe. Es wäre am besten, wenn ich das Unternehmen zu Fuß erreichen könnte.
+Zurzeit studiere ich online Softwareentwicklung an der KPI in Kiew und warte darauf, in Deutschland eine Ausbildung zum Fachinformatiker zu machen. Folglich geht es um ein Unternehmen der IT-Branche. Der Standort der Firma ist für mich wichtig, da ich noch keinen Führerschein habe. Es wäre am besten, wenn ich das Unternehmen zu Fuß erreichen könnte.
 
 Als Softwareentwickler bestehen meine Aufgaben darin, Fehler im Programm zu beheben, Dokumentationen zu schreiben, Änderungen in der Software vorzunehmen und das Programm weiterzuentwickeln. Ich möchte auch Aufgaben im Kundenkontakt übernehmen, wie zum Beispiel Workshops mit Kunden durchführen. Dieser Job heißt IT-Consultant und diese Stellen sind üblicherweise nur für die Erfahrenen Spezialisten. Trotzdem kann man auch eine Stelle für einen Junior bekommen.
 

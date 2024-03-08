@@ -16,7 +16,7 @@ Zurzeit studiere ich online Softwareentwicklung an der KPI in Kiew und warte dar
 
 Natürlich ist eine gründliche Vorbereitung auf ein Bewerbungsgespräch entscheidend, um die  Chancen auf dem Arbeitsmarkt zu verbessern. Bevor man zu einem Bewerbungsgespräch geht, gibt es viele Schritte zu beachten. 
 
-Erstens ist es wichtig, sich gut über das Unternehmen zu informieren. Das zeigt den Interviewern, dass man ein seriöses Interesse an der Stelle und der Firma hat. Zum Beispiel stellen die Interviewer oft die Frage: Warum Sie möchten bei unserer Firma arbeiten? Eine gute Antwort darauf sollte mehr über die Firma sagen, nicht nur allgemeine Dinge.
+Erstens ist es wichtig, sich gut über das Unternehmen zu informieren. Das zeigt den Interviewern, dass man ein seriöses Interesse an der Stelle und der Firma hat. Zum Beispiel stellen die Interviewer oft die Frage: Warum Sie in unserer Firma arbeiten möchten? Eine gute Antwort darauf sollte mehr über die Firma sagen, nicht nur allgemeine Dinge.
 
 Zweitens muss man darauf achten, passende Kleidung für das Bewerbungsgespräch zu wählen. Das bedeutet nicht, immer einen Anzug anzuziehen, sondern die Kleidung der Firmenkultur zu wählen. Zum Beispiel habe ich Jeans und ein T-Shirt getragen, als ich zum Interview in einem Restaurant gegangen bin und in Zukunft wenn ich zum Gespräch bezüglich meiner Ausbildung gehe, werde ich Jeans aber dieser Mal mit dem Hemd trägen.
 

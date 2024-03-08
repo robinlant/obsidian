@@ -19,7 +19,7 @@ Andererseits wird es immer leichter, eine Stelle online zu finden. Dort kann man
 
 Das populärste Internetportal ist das Internetportal der Agentur für Arbeit. Auf diesem Portal findet man nicht nur Stellen, sondern auch umfassende Informationen zu Ausbildungen, Praktika und Weiterbildungen. Zudem gibt es dort ein Forum, in dem Leute ihre Erkenntnisse und Tipps teilen. Es kann einem helfen, häufige Anfangsfehler zu vermeiden und sich an bewährte Methoden zu halten`(stick to best practices)`.
 
-Außerdem sollten wir nicht vergessen, dass das Berufsinformationszentrum (BIZ) ein wichtiges Hilfezentrum ist, das individuelle Beratung und Unterstützung bei der Jobsuche bietet.
+Außerdem sollten wir nicht vergessen, dass sowohl Jobcenter als auch das Berufsinformationszentrum (BIZ) wichtige Hilfezentren sind und individuelle Beratung und Unterstützung bei der Jobsuche bieten.
 
 Schließlich möchte ich Ihnen von meiner Erfahrung bei der Jobsuche in der Ukraine berichten. Nach der zehnten Klasse wollte ich einen Sommerjob finden und habe mich dafür entschieden, als Kellner zu arbeiten. Ich habe alle Cafés, Gaststätten und Pubs in der Nähe angerufen, um zu fragen, ob sie einen Kellner benötigen. Auf diese Weise`(таким образом)` habe ich schnell einen Job in einem Pub bekommen und dort den ganzen Sommer gearbeitet.
 ##### Fragen
