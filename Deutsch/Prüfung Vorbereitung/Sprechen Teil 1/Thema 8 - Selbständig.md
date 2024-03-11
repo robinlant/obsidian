@@ -21,9 +21,7 @@ Die Finanzierung für mein Projekt plane ich durch Crowdfunding zu sichern. Ich 
 
 __`(nur wenn es noch Zeit gibt)`__
 Die Idee zu diesem Geschäft kam mir, als ich im Internet recherchiert habe, in welchem Bereich die Menschen gerne Unterstützung anbieten. Das macht die Organisation und Umsetzung für mich einfacher, da ich von den Erfahrungen anderer lernen kann. Viele Gründer in diesem Bereich sind häufig bereit, ihre Erkenntnisse und Tipps zu teilen, was mir hilft, häufige Anfangsfehler zu vermeiden.
-
-Zudem `(Außerdem)` möchte ich mit lokalen Anbietern und Lieferanten zusammenarbeiten, um Qualität und Nachhaltigkeit zu verbessern. Dadurch können wir besondere Angebote machen, die mehr Kunden bringen.
-##### Fragen
+##### Frage
 ###### Was ist Crowdfunding
 Crowdfunding ist eine Art, Geld zu sammeln. Dort stellt man sein Projekt vor und bittet viele Menschen um kleine Geldbeträge. Wenn genug Leute das Projekt gut finden und Geld geben, kann man mit diesem Geld das Projekt starten oder verbessern. Es ist wie eine große Gruppe von Menschen, die zusammenkommen, um eine Idee zu unterstützen.
 ###### Welche Herausforderungen sehen Sie bei der Umsetzung Ihrer Geschäftsidee?
