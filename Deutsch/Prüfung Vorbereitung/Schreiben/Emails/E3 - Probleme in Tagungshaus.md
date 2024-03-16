@@ -1,0 +1,5 @@
+Sehr geehrte Frau Steffens,
+ich beziehe mich auf Ihre E-Mail von gestern, 17:44, in der Sie über die Qualität unseres Services beschwert haben. Zuerst möchten wir uns bei Ihnen entschuldigen, dass Sie solche Probleme unsere Räumlichkeiten hatten. Der Grund für die erlebten Unannehmlichkeiten liegt darin, dass unser Team kürzlich Zuwachs erhalten hat und wir uns noch in der Phase der intensiven Einarbeitung befinden. Um sicherzustellen, dass so etwas nicht noch einmal passiert, werden wir zusätzliche Kontrolle einführen. Ein erfahrener Mitarbeiter wird die Räume vor der Veranstaltung überprüfen. Schließlich möchten wir Sie 10% Rabatt auf letzte Rechnung anbieten, um uns zu entschuldigen. Wir hoffen, dass Sie trotz der Probleme als geschätzten Kunden erhalten bleiben.
+Mit freundlichen Grüßen
+Maksym Tarasovets 
+`12 min`

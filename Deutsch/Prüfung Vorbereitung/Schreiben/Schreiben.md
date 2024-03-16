@@ -16,17 +16,17 @@ Ein herzliches Dankeschön geht an das Management und alle Beteiligten! Es ist w
 ### Emails
 #### Plan
 1) Sehr geehrte `Nachname`, ich beziehe mich auf Ihre E-Mail von heute, 10:00
-2) ,in der Sie über ... beschwert haben.
-3) Zuerst möchten wir bei Ihnen entschuldigen, dass sie solche Problemen mit ... hatten.
+2) ,in der Sie sich über ... beschwert haben.
+3) Zuerst möchten wir uns bei Ihnen dafür entschuldigen, dass sie solche Probleme mit ... hatten.
 4) Der Grund für die erlebten Unannehmlichkeiten liegt darin, dass unser Team kürzlich Zuwachs erhalten hat und wir uns noch in der Phase der intensiven Einarbeitung befinden. __`Слово в слово!`__
 5) _`(nur wenn die Lösung gebracht ist)`_ Um sicherzustellen, dass so etwas nicht noch einmal passiert, werden wir zusätzliche Kontrolle einführen. __`Слово в слово!`__
 6) _`(nur wenn die Lösung gebracht ist)`_ _Hier muss ein Beispiel der Kontrolle sein._ __Beispiel:__ Ein erfahrener Mitarbeiter wird ... einmal pro Stunde überprüfen.
-7) Schließlich möchten wir Sie ...`(10 Rabatt auf nechste Rechnung)` anbieten, um uns zu entschuldigen.
-8) Wir hoffen, dass Sie uns trotz der Probleme als geschätzten Kunden erhalten bleiben __`Слово в слово!`__
+7) Schließlich möchten wir Ihnen als Entschuldigung einen Rabatt in Höhe von 10% auf die nächste Monatsrechnung anbieten.
+8) Wir hoffen, dass Sie uns trotz der Probleme als geschätzter Kunde erhalten bleiben __`Слово в слово!`__
 9) Mit freundlichen Grüßen
 10) Maksym Tarasovets
 #### Hilfsreiche Phrasen
 ##### Etwas Bestätigen
-Sobald ich eine Bestätigung bekomme, dass Ihre Problem behebet wurde, gebe ich Ihnen Bescheid per E-Mail
-
-
+Sobald ich eine Bestätigung bekomme, dass Ihre Problem behebet wurde, gebe ich Ihnen Bescheid per E-Mail.
+##### Handwerker schicken
+Ich schlage vor, dass unser Handwerker kommt, um den Mangel zu beheben. Unser Mitarbeiter wird Ihnen anrufen, um Sie nach der Zeit zu fragen.

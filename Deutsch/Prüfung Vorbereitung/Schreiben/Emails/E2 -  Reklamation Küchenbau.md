@@ -1,0 +1,5 @@
+`Herr Raueisen ist mit der Küchenbau nicht zufrieden, da der Schrank einen Defekt hat(Fehler von Mitarbeiter) (entschuldigen - Grund - Wie beheben)`
+Sehr geehrter Herr Raueisen,
+ich beziehe mich auf Ihre E-Mail von heute, 09:25, in der sie über einen Defekt beschwert haben, den Ihre Küchenschrank wegen des Fehlers von unseren Mitarbeiter bei der Installation hat. Zuerst möchten wir uns bei Ihnen entschuldigen, dass sie solche Probleme mit unserem Service haben. Der  Grund für die erlebten Unannehmlichkeiten liegt darin, dass unser Team kürzlich Zuwachs erhalten hat und wir uns noch in der Phase der intensiven Einarbeitung befinden. Ich schlage vor, dass unser erfahrener Handwerker kommt, um der Mangel zu beheben. Unser Mitarbeiter wird Ihnen anrufen, um Sie über die Zeit fragen. Wir hoffen, dass Sie uns trotz der Probleme als geschätzten Kunden erhalten bleiben.
+Mit freundlichen Grüßen
+Maksym Tarasovets
